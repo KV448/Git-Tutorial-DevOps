@@ -1,2 +1,2 @@
 print("Welcome to EDUREKA");
-print("Hello");
+print("HI What do you do..?");
