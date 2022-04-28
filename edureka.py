@@ -1,3 +1,4 @@
 print("Welcome to EDUREKA");
 print("HI What do you do..?");
-print("check");
+print("27/4");
+
